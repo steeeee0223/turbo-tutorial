@@ -1,0 +1,4 @@
+{
+    "extends": "tsconfig/math-utils.json",
+    "include": ["."]
+}

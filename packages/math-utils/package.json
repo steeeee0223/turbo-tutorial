@@ -1,0 +1,8 @@
+{
+    "name": "math-utils",
+    "main": "src/index.ts",
+    "types": "src/index.ts",
+    "dependencies": {
+        "typescript": "latest"
+    }
+}
